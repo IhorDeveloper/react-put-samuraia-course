@@ -1,0 +1,31 @@
+.sidebar {
+    grid-area: nav;
+    background-color: #3f3f3f;
+    border-radius: 10px;
+    padding: 30px;
+  }
+  
+  .sidebarLink{
+    color: #fff;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .sidebarLine{
+    margin-top: 30px;
+    border-color: rgb(86, 86, 86);
+  }
+  
+  .sidebarLinkSettings{
+    color: #fff;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+
+  .sidebarLinkSettings:hover{
+    color: #111111;
+  }
+
+  .sidebarLink:hover{
+    color: #111111;
+  }

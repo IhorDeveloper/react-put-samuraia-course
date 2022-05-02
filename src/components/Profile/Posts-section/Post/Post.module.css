@@ -1,0 +1,27 @@
+.post{
+    height: 70px;
+    width: 1000px;
+    background-color: #fff;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
+.image{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.image img{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.title {
+    margin-left: 40px;
+    padding-top:5px;
+    font-size: 20px;
+}
